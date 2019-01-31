@@ -1,8 +1,8 @@
 # project language
-language: java
+language: scala
 
-jdk:
-- oraclejdk8
+scala:
+- 2.11.11
 
 cache:
 directories:
